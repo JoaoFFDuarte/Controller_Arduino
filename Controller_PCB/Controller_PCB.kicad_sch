@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Controller Schematic")
-		(rev "v0.1")
+		(rev "V01")
 		(company "Instituto Superior Técnico")
 		(comment 4 "Author: João Duarte")
 	)

@@ -58,7 +58,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|241590000|116026000|57b75311-2b64-4a07-a41b-14de63a2fbcf|6555c57d-3efd-46ce-8fee-a61a7f152aef",
+        "unconnected_items|250698000|104902000|07667d44-363f-4bb9-8ffa-7e9298c899ff|6827e03e-c16c-473c-8b18-298d03667116",
+        "unconnected_items|250750000|125186000|59ca5e0d-c9de-40cb-855c-8737e980b4a6|85f79010-7cab-4865-8865-be176c3b4f30",
+        "unconnected_items|258266000|91150000|ae68037c-4797-494f-9a92-db8b31ffea94|99c8ea02-cfbf-4f6c-8d00-b18ad04b4239",
+        "unconnected_items|261874000|116026000|93ece78f-6530-4ea3-a757-40779859631e|374d6206-7134-4980-8b3c-d25dbfc669d4",
+        "unconnected_items|38318000|139498000|b1c13346-ddf5-4037-bf51-0625936a671f|a6361580-c554-40c4-91ac-4e1b2fd5a17a",
+        "unconnected_items|42492822|129357000|c14c0594-7569-4359-b446-f624518e83fb|c14c0594-7569-4359-b446-f624518e83fb",
+        "unconnected_items|48478000|128576000|0be49f72-f0a1-4b85-a877-49c82f23fc9a|f5986ac0-1881-4b84-aa29-b26636292e32",
+        "unconnected_items|48514000|148844000|69f06ccd-5500-4405-9422-b8cdf0ed70f9|02e1d25f-a89c-4e18-baca-cd68906356f7",
+        "unconnected_items|50748000|86650000|2d8018c5-bb98-47e2-a9f7-2a75c306372c|433ce721-13d9-4f64-bbee-99eef1fd0308",
+        "unconnected_items|58384000|145998000|4c771edc-d565-49c4-a504-22504605ffd2|decf3b93-3e1f-40ef-903b-0f8532df5415",
+        "unconnected_items|94690000|78450000|70edde6a-b10d-4906-adec-ab108bb8111e|e3c5cb06-1472-4edc-bcab-0102facaaa58"
+      ],
       "meta": {
         "version": 2
       },
