@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "Controller PCB")
-		(rev "v0.1")
+		(rev "V01")
 		(company "Instituto Superior Técnico")
 		(comment 4 "Author: João Duarte")
 	)
@@ -5389,7 +5389,7 @@
 			(xy 275 70) (xy 275 160)
 		)
 		(height -6.94)
-		(gr_text "3543.3071 mils"
+		(gr_text "90.0000 mm"
 			(at 280.84 115 90)
 			(layer "User.1")
 			(uuid "27d9e516-dcd2-48e2-9589-472a0343986a")
@@ -5422,7 +5422,7 @@
 			(xy 275 70) (xy 25 70)
 		)
 		(height 13.103999)
-		(gr_text "9842.5197 mils"
+		(gr_text "250.0000 mm"
 			(at 150 55.796001 0)
 			(layer "User.1")
 			(uuid "f3cd6bc6-e9b5-449c-b597-c14a3c4a1299")
