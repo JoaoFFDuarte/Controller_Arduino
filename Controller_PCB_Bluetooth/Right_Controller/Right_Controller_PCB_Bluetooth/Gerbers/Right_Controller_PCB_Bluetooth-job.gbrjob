@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.2"
     },
-    "CreationDate": "2024-05-08T14:27:54+01:00"
+    "CreationDate": "2024-05-08T14:23:23+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Left_Controller_PCB_Bluetooth",
-      "GUID": "4c656674-5f43-46f6-9e74-726f6c6c6572",
+      "Name": "Right_Controller_PCB_Bluetooth",
+      "GUID": "52696768-745f-4436-9f6e-74726f6c6c65",
       "Revision": "V01"
     },
     "Size": {
@@ -34,32 +34,32 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Left_Controller_PCB_Bluetooth-F_Cu.gbr",
+      "Path": "Right_Controller_PCB_Bluetooth-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Left_Controller_PCB_Bluetooth-F_Paste.gbr",
+      "Path": "Right_Controller_PCB_Bluetooth-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Left_Controller_PCB_Bluetooth-F_Silkscreen.gbr",
+      "Path": "Right_Controller_PCB_Bluetooth-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Left_Controller_PCB_Bluetooth-B_Silkscreen.gbr",
+      "Path": "Right_Controller_PCB_Bluetooth-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Left_Controller_PCB_Bluetooth-F_Mask.gbr",
+      "Path": "Right_Controller_PCB_Bluetooth-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Left_Controller_PCB_Bluetooth-Edge_Cuts.gbr",
+      "Path": "Right_Controller_PCB_Bluetooth-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
